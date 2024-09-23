@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @annmora13<br>- 👀 I’m interested in every back-end framework<br>- 🌱 I’m currently learning React.js<br>- 💞️ I’m looking to collaborate on my project: Movie Challenge<br>- 📫 How to reach me: always on my twitter!<br>-⚡Fun fact: ADHD enjoyed<br>
+- 👋 Hi, I’m @annmora13<br>- 👀 I’m interested in every back-end framework<br>- 🌱 I’m currently learning React.js<br>- 💞️ I’m looking to collaborate on my project: Movie Challenge<br>- 📫 How to reach me: always on my twitter!<br>-⚡Fun fact: <br>
 
 
 ## 🌐 Socials:
